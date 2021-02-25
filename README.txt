@@ -1,3 +1,4 @@
+README for K-D Tree
 Original author: Morgan McKinney 3/2020
 
 kd.cpp: 

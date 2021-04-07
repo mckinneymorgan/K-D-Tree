@@ -16,4 +16,4 @@ Contains output of student designed k-d tree program. May invoke with
  'cat' command in the command prompt.
 
 Makefile: 
-Present for easy user compilation of trees.cpp.
+Initial code provided by Dr. Finkel, with minor modifications. Present for easy user compilation of trees.cpp.
